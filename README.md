@@ -1,5 +1,23 @@
 # 🧠 LeetCode Challenge
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-75%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-Active%20Practice-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Batch-2025--2029-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20DS-II%20Year-success?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Programming-blue?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Synced-black?style=flat-square&logo=github&logoColor=white" />
+
+</p>
+
 ### 🚀 Consistent Practice. Stronger Logic. Better Problem Solving.
 
 Welcome to my **LeetCode Challenge Repository** — a continuously updated collection of my solutions to coding and algorithmic problems from LeetCode.
@@ -10,7 +28,13 @@ This repository documents my journey of improving **Data Structures & Algorithms
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Sujan Das**, a **B.Tech Artificial Intelligence & Data Science student** at **VSB College of Engineering And Technical Campus, Coimbatore **.
+Hi, I'm **Sujan S**, a **B.Tech Artificial Intelligence & Data Science student** at **VSB College of Engineering And Technical Campus, Coimbatore**.
+
+<p>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Year-II%20Year-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Batch-2025--2029-success?style=for-the-badge" />
+</p>
 
 I'm passionate about **Artificial Intelligence, Data Science, Software Development, and Competitive Programming**. I use platforms like LeetCode to strengthen my programming fundamentals and develop the problem-solving skills required to build efficient real-world solutions.
 
@@ -87,22 +111,30 @@ I don't want to simply memorize solutions. My goal is to understand **why a solu
 
 | Metric               | Status                  |
 | -------------------- | ----------------------- |
-| 🧩 LeetCode Problems | 🔄 Continuously Growing |
+| 🧩 LeetCode Problems | 🏆 75 Completed         |
 | 💻 Solutions         | 🔄 Automatically Synced |
 | 🧠 DSA Practice      | 🔥 Active               |
 | 📈 Learning Progress | 🚀 Ongoing              |
+
+### 🏅 Achievement
+
+<p>
+<img src="https://img.shields.io/badge/LeetCode-75%20Challenge%20Completed-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+Successfully completed the **LeetCode 75** challenge as part of my ongoing journey to strengthen Data Structures & Algorithms.
 
 ---
 
 ## 🏆 Goals
 
-* Complete **LeetCode 75**
-* Progress toward **NeetCode 150**
-* Strengthen DSA fundamentals
-* Improve algorithmic thinking
-* Write clean and optimized code
-* Prepare for technical interviews
-* Maintain consistent coding practice
+* ✅ Complete **LeetCode 75**
+* 🎯 Progress toward **NeetCode 150**
+* 🧠 Strengthen DSA fundamentals
+* ⚡ Improve algorithmic thinking
+* 💻 Write clean and optimized code
+* 💼 Prepare for technical interviews
+* 🔥 Maintain consistent coding practice
 
 ---
 
@@ -120,9 +152,21 @@ My goal is to combine strong problem-solving fundamentals with practical AI deve
 
 ## 🔗 Connect With Me
 
-**GitHub:** SujanS-B-Tech
-**LeetCode:** SujanS_B-Tech
-**LinkedIn:** Sujan S
+<p>
+
+<a href="https://github.com/SujanS-B-Tech">
+<img src="https://img.shields.io/badge/GitHub-SujanS--B--Tech-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://leetcode.com/u/SujanS_B-Tech/">
+<img src="https://img.shields.io/badge/LeetCode-SujanS__B--Tech-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.linkedin.com/in/sujans-b-tech/">
+<img src="https://img.shields.io/badge/LinkedIn-Sujan%20S-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
 
 ---
 
