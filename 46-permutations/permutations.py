@@ -1,15 +1,14 @@
 class Solution:
-    def permute(self, nums):
-        res = []
-        
-        def perms(i):
-            if i == len(nums):
-                res.append(nums[:])
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        def backtrack(start):
+            if start == len(nums):
+                result.append(nums[:])
                 return
-            for j in range(i, len(nums)):
-                nums[i], nums[j] = nums[j], nums[i]
-                perms(i + 1)
-                nums[i], nums[j] = nums[j], nums[i]
-        
-        perms(0)
-        return res
+            for i in range(start, len(nums)):
+                nums[start], nums[i] = nums[i], nums[start]  # Swap
+                backtrack(start + 1)
+                nums[start], nums[i] = nums[i], nums[start]  # Backtrack
+
+        result = []
+        backtrack(0)
+        return result
