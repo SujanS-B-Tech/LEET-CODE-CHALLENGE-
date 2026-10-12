@@ -1,11 +1,14 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        dp = [-1] * (n + 1)
-        def climbStairsHelper(n):
-            if n <= 1:
-                return 1
-            if dp[n] != -1:
-                return dp[n]
-            dp[n] = climbStairsHelper(n - 1) + climbStairsHelper(n - 2)
-            return dp[n]
-        return climbStairsHelper(n)
+        ways = 1
+
+        for i in range(1, (n // 2) + 1):
+            product = 1
+
+            for j in range(i, 2 * i):
+                product *= (n - j) / (j - i + 1)
+
+            ways += product
+
+        return int(ways)
+
